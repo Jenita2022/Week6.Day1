@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49771" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:56 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49771" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:56 IST">
+      <class name="week6.day1.DeleteLead">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:week6.day1.DeleteLead@27d415d9]" name="precondition" is-config="true" duration-ms="15947" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="DelLead()[pri:0, instance:week6.day1.DeleteLead@27d415d9]" name="DelLead" duration-ms="26393" started-at="2022-06-19T12:56:22 IST" finished-at="2022-06-19T12:56:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DelLead -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:week6.day1.DeleteLead@27d415d9]" name="postcondition" is-config="true" duration-ms="176" started-at="2022-06-19T12:56:48 IST" finished-at="2022-06-19T12:56:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- week6.day1.DeleteLead -->
+      <class name="week6.day1.CreateLead">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:week6.day1.CreateLead@fcd6521]" name="precondition" is-config="true" duration-ms="15906" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="CLead()[pri:0, instance:week6.day1.CreateLead@fcd6521]" name="CLead" duration-ms="12779" started-at="2022-06-19T12:56:22 IST" finished-at="2022-06-19T12:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CLead -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:week6.day1.CreateLead@fcd6521]" name="postcondition" is-config="true" duration-ms="623" started-at="2022-06-19T12:56:35 IST" finished-at="2022-06-19T12:56:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- week6.day1.CreateLead -->
+      <class name="week6.day1.EditLead">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:week6.day1.EditLead@319b92f3]" name="precondition" is-config="true" duration-ms="16504" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="EdiLead()[pri:0, instance:week6.day1.EditLead@319b92f3]" name="EdiLead" duration-ms="28939" started-at="2022-06-19T12:56:23 IST" finished-at="2022-06-19T12:56:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EdiLead -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:week6.day1.EditLead@319b92f3]" name="postcondition" is-config="true" duration-ms="4216" started-at="2022-06-19T12:56:51 IST" finished-at="2022-06-19T12:56:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- week6.day1.EditLead -->
+      <class name="week6.day1.CreateContact">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:week6.day1.CreateContact@2f0a87b3]" name="precondition" is-config="true" duration-ms="16087" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="CreContact()[pri:0, instance:week6.day1.CreateContact@2f0a87b3]" name="CreContact" duration-ms="29735" started-at="2022-06-19T12:56:22 IST" finished-at="2022-06-19T12:56:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreContact -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:week6.day1.CreateContact@2f0a87b3]" name="postcondition" is-config="true" duration-ms="135" started-at="2022-06-19T12:56:52 IST" finished-at="2022-06-19T12:56:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- week6.day1.CreateContact -->
+      <class name="week6.day1.DuplicateLead">
+        <test-method status="PASS" signature="precondition()[pri:0, instance:week6.day1.DuplicateLead@78ac1102]" name="precondition" is-config="true" duration-ms="16690" started-at="2022-06-19T12:56:06 IST" finished-at="2022-06-19T12:56:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- precondition -->
+        <test-method status="PASS" signature="DupLead()[pri:0, instance:week6.day1.DuplicateLead@78ac1102]" name="DupLead" duration-ms="24343" started-at="2022-06-19T12:56:23 IST" finished-at="2022-06-19T12:56:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DupLead -->
+        <test-method status="PASS" signature="postcondition()[pri:0, instance:week6.day1.DuplicateLead@78ac1102]" name="postcondition" is-config="true" duration-ms="140" started-at="2022-06-19T12:56:47 IST" finished-at="2022-06-19T12:56:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postcondition -->
+      </class> <!-- week6.day1.DuplicateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
